@@ -1,0 +1,18 @@
+[project]
+name = "bossrota"
+version = "0.1.0"
+description = ""
+authors = [
+    { name = "fussbanana", email = "saschafuss1982@gmail.com" }
+]
+readme = "README.md"
+dependencies = [
+    "PySide6",
+]
+
+[project.scripts]
+start-bossrota="bossrota:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

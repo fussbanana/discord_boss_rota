@@ -1,0 +1,9 @@
+/.venv
+/__pycache__
+/bossrota.egg-info
+/discord_boss_rota.pyproject
+/discord_boss_rota.pyproject.user
+/dist
+/poetry.lock
+/setup.py
+/start_bossrota.sh
